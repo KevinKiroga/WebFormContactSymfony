@@ -12,3 +12,7 @@ git clone https://github.com/KevinKiroga/WebFormContactSymfony.git
 ```cmd
 code .
 ```
+4. Ejecutar el siguiente comando:
+```cmd
+composer install
+```
