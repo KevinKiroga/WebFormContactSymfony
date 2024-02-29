@@ -12,7 +12,7 @@ git clone https://github.com/KevinKiroga/WebFormContactSymfony.git
 ```cmd
 code .
 ```
-4. Ejecutar el siguiente comando:
+4. Ejecutar el siguiente comando al repositorio que se clono:
 ```bash
 composer install
 ```
