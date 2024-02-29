@@ -13,6 +13,6 @@ git clone https://github.com/KevinKiroga/WebFormContactSymfony.git
 code .
 ```
 4. Ejecutar el siguiente comando:
-```cmd
+```bash
 composer install
 ```
