@@ -8,7 +8,7 @@ cd ruta_directorio
 ```bash
 git clone https://github.com/KevinKiroga/WebFormContactSymfony.git
 ```
-3. Abrir el proyecto con el siguiente comando
+3. Abrir el proyecto con el siguiente comando (Si tienes el editor de texto VsCode):
 ```bash
 code .
 ```
