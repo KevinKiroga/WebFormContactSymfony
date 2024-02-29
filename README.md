@@ -1,5 +1,5 @@
 ﻿# WebFormContactSymfony
-## Pasos para ejecutar el proyecto
+## Requerimeintos ejecutar el proyecto
 1. Git: Para clonar el repositorio desde GitHub.
 2. Composer: Para instalar las dependencias del proyecto PHP.
 3. PHP: La versión compatible con el proyecto Symfony que es mayor a 8.*.
