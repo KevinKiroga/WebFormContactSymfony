@@ -23,13 +23,16 @@ Después de completar los pasos anteriores, te recomendamos que consultes la doc
 ```bash
 // Instala el paquete ORM de Symfony
  composer require symfony/orm-pack
-
+```
+```bash
 // Instala el paquete Maker Bundle de Symfony para crear código
  composer require --dev symfony/maker-bundle
-
+```
+```bash
  // Crea la base de datos
  php bin/console doctrine:database:create
-
+```
+```bash
 // Ejecuta las migraciones de Doctrine
  php bin/console doctrine:migrations:migrate
 ```
