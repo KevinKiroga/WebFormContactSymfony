@@ -20,20 +20,22 @@ composer install
 Después de completar los pasos anteriores, te recomendamos que consultes la documentación oficial de Symfony para  utilizar las funcionalidades relacionadas con bases de datos y el ORM Doctrine. Puedes encontrar información detallada en el siguiente enlace: Documentación de Symfony sobre Bases de Datos y el ORM Doctrine en el siguiente link: https://symfony.com/doc/current/doctrine.html.
 
 5. Abrir la terminal y ejecutar los siguientes comando:
+Instala el paquete ORM de Symfony
 ```bash
-// Instala el paquete ORM de Symfony
  composer require symfony/orm-pack
 ```
+Instala el paquete Maker Bundle de Symfony para crear código
 ```bash
-// Instala el paquete Maker Bundle de Symfony para crear código
  composer require --dev symfony/maker-bundle
 ```
+
+Crea la base de datos
 ```bash
- // Crea la base de datos
  php bin/console doctrine:database:create
 ```
+
+Ejecuta las migraciones de Doctrine
 ```bash
-// Ejecuta las migraciones de Doctrine
  php bin/console doctrine:migrations:migrate
 ```
 
