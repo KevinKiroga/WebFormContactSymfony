@@ -17,7 +17,7 @@ code .
 composer install
 ```
 
-Después de completar los pasos anteriores, te recomendamos que consultes la documentación oficial de Symfony para aprender a utilizar funcionalidades relacionadas con bases de datos y el ORM Doctrine. Puedes encontrar información detallada en el siguiente enlace: Documentación de Symfony sobre Bases de Datos y el ORM Doctrine en el siguiente link: https://symfony.com/doc/current/doctrine.html.
+Después de completar los pasos anteriores, te recomendamos que consultes la documentación oficial de Symfony para  utilizar las funcionalidades relacionadas con bases de datos y el ORM Doctrine. Puedes encontrar información detallada en el siguiente enlace: Documentación de Symfony sobre Bases de Datos y el ORM Doctrine en el siguiente link: https://symfony.com/doc/current/doctrine.html.
 
 5. Abrir la terminal y ejecutar el siguiente comando:
 ```bash
